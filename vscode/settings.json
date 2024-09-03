@@ -11,8 +11,6 @@
     "editor.minimap.enabled": false,
     "editor.semanticHighlighting.enabled": false,
     
-    "workbench.iconTheme": "icons",
-    "workbench.colorTheme": "Monochrome Black",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.editor.labelFormat": "short",
     "workbench.activityBar.location": "hidden",
