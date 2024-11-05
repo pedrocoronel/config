@@ -1,0 +1,21 @@
+{
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    
+    "editor.fontSize": 12,
+    "editor.lineHeight": 1.8,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.semanticHighlighting.enabled": false,
+    
+    "workbench.startupEditor": "none",
+    "workbench.editor.labelFormat": "short",
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+    "workbench.layoutControl.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": false
+}
